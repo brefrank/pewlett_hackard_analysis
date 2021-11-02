@@ -13,9 +13,13 @@ We started by pulling employee numbers, names, position titles, and dates of emp
 The second goal of this analysis was to determine mentorship eligibility in order to train replacements. This was done by gathering and merging three data sets - "Employees", "Department Employee", and "Titles". We again used DISTINCT ON employee number to remove duplicates and filtered by birth date. With this new mentorship eligibility table, we are now able to see everyone as well as their corresponding departments. 
 
 [retiring_titles.csv](https://github.com/brefrank/pewlett_hackard_analysis/files/7463949/retiring_titles.csv)
+
 [unique_titles.csv](https://github.com/brefrank/pewlett_hackard_analysis/files/7463950/unique_titles.csv)
+
 [mentorship_eligibilty.csv](https://github.com/brefrank/pewlett_hackard_analysis/files/7463952/mentorship_eligibilty.csv)
+
 [retirement_titles.csv](https://github.com/brefrank/pewlett_hackard_analysis/files/7463954/retirement_titles.csv)
+
 
 ## Summary
 
